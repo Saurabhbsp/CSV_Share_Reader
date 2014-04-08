@@ -1,0 +1,5 @@
+Year, Month, CompanyA, CompanyB, CompanyC
+1990, Jan, 100, 200, 300
+1991, Feb, 100, 200, 500
+1992, Mar, 399, 111, 444
+1993, Apr, 11, 567, 999 
